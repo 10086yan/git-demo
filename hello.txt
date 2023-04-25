@@ -1,9 +1,8 @@
-666666666hello,git,heelo,world
+66666666hello,git,heelo,world
 6hello,git,heelo,world
 6hello,git,heelo,world
 6hello,git,heelo,world
 6hello,git,heelo,world
 6hello,git,heelo,world
 6hello,git,heelo,world master.txt
-6hello,git,heelo,world
-
+6hello,git,heelo,world hot-fix.text
